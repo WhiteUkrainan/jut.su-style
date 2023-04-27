@@ -11,7 +11,8 @@
 	"content_scripts": [
 	    {
 	      "matches": [ "https://jut.su/*" ],
-	      "css": ["css/css.css"]
+	      "css": ["css/css.css"],
+	      "js": ["script/script.js"]
 	    }
   	],
 	"action": {
