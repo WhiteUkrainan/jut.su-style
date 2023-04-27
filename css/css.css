@@ -1,0 +1,190 @@
+body {
+	background-image: url('https://wallpapers.com/images/hd/sage-obito-madara-uchiha-4k-ndqsjkk81fjfqafh.jpg')!important;
+}
+body .dark_mode {
+	background-image: url('https://wallpapers.com/images/hd/sage-obito-madara-uchiha-4k-ndqsjkk81fjfqafh.jpg')!important;
+}
+.dark_moon {
+	display: none!important;
+}
+.header {
+	background: #262626!important;
+	border-bottom: #181818 solid 1px!important;
+}
+.top_nav>li>a.active:after, .top_nav>li>a:hover:after {
+	background: none!important;
+}
+.top_nav>li>a {
+	color: white!important;
+}
+.top_nav .downer_nav {
+	background: #262626!important;
+	border-radius: 0!important;
+	border: 1px solid #181818!important;
+	border-top: none!important;
+	box-shadow: none!important;
+}
+.downer_nav a {
+	border-bottom: none!important;
+}
+.top_logo_img {
+	background: url('https://i.ibb.co/FJNvQ3f/jutsu-logo.png')!important;
+}
+#up_rank_link2 {
+	background: #262626!important;
+	border-radius: 0!important;
+	border-top-left-radius: 10px!important;
+	border-top-right-radius: 10px!important;
+	border: 1px solid #181818!important;
+	border-bottom: none!important;
+}
+.notice_top2.notice_cont {
+	border: 1px solid #181818!important;
+	border-radius: 0!important;
+	border-radius: 0!important;
+	border-top-left-radius: 10px!important;
+	border-top-right-radius: 10px!important;
+	border-bottom: none!important;
+	background: #262626!important;
+}
+.logo_b .notice_cont {
+	right: 0px!important;
+}
+.notice_top2.notice_cont {
+	box-shadow: none!important;
+}
+.info_panel {
+	width: 1010px!important;
+	box-shadow: none!important;
+	border-radius: 0!important;
+	border: 1px solid #181818!important;
+	background: #262626!important;
+}
+#topLoginPanel a {
+	color: white!important;
+	text-shadow: none!important;
+}
+#topLoginPanel a:hover {
+	background: white!important;
+	border-radius: none!important;
+}
+#topLoginPanelAvatar img {
+	border-radius: 0!important;
+	width: 41px!important;
+	height: 41px!important;
+	border-radius: 0!important;
+	margin: 0!important;
+}
+#topLoginPanelAvatar {
+	background: none!important;
+	border: 1px solid #181818!important;
+}
+.search input[type="text"] {
+	background: #121212!important;
+	border-radius: 10px!important;
+	border: 1px solid #181818!important;
+	box-shadow: none!important;
+}
+/* Content */
+.main {
+	border: none!important;
+	backdrop-filter: blur(20px)!important;
+	border: 1px solid #181818!important;
+	background: none!important;
+	border-top: none!important;
+	border-bottom: none!important;
+}
+.new_last_boruto_eps {
+	border-top: none!important;
+}
+.media_content {
+	border: none!important;
+}
+#laststoryhere .media_link {
+	border-radius: 10px!important;
+	border: 1px solid #181818;
+}
+.news_content:after, .media_content:after {
+	border: none!important;
+}
+.all_anime_title_halfleft {
+	background: #171717!important;
+	display: none;
+}
+.anime_next_line_preedge {
+	background: none!important;
+}
+.anime_next_line_edge {
+	background: none!important;
+}
+.all_anime_title {
+	border-radius: 23px!important;
+	border: 1px solid #181818!important;
+}
+.anime_next_line_edge {
+	display: none!important;
+}
+.header_video {
+	border-color: #181818!important;
+	background: #262626!important;
+	border: 1px solid #181818;
+	border-radius: 10px;
+}
+.anime_next_menu_circle {
+	border: 1px solid white!important;
+	color: white;
+}
+.anime_next_menu_circle_i {
+	background: white!important;
+}
+.search input[type=submit] {
+	box-shadow: none!important;
+	border: 1px solid #181818!important;
+	border-radius: 10px!important;
+	background: #121212!important;
+	color: white;
+}
+.circle {
+	width: 50px!important;
+	height: 50px!important;
+	box-shadow: none!important;
+	border-radius: 10px!important;
+	background-color: #121212!important;
+	border: 1px solid white;
+}
+.widget {
+	box-shadow: none!important;
+	border: 1px solid #181818;
+	background: #262626!important;
+	color: white!important;
+}
+.iChat .message1 {
+	background: #262626!important;
+}
+.dark_mode .iChat_editor {
+	border: 1px solid #181818!important;
+}
+.a_dur_line span {
+	background: #0048bd!important;
+}
+/*
+.social_links .plus_i {
+	background-image: url('https://i.ibb.co/cyX059k/plus.png')!important;
+	background-repeat: no-repeat!important;
+	background-position: center!important;
+}
+.social_links .vk_i {
+	background-image: url('https://i.ibb.co/9yqyGPj/vk-1.png')!important;
+	background-repeat: no-repeat!important;
+	background-position: center!important;
+}.social_links .yt_i {
+	background-image: url('https://i.ibb.co/pjZgjYq/youtube.png')!important;
+	background-repeat: no-repeat!important;
+	background-position: center!important;
+}
+*/
+.footer {
+	background: #262626!important;
+	border: 1px solid #181818!important;
+	box-shadow: none!important;
+}

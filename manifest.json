@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "Jut.su Styles",
+	"version": "1.0",
+	"description": "This extension creating new design for Jut.su",
+	"icons": {"16": "images/icon-16.png"},
+    "permissions": [
+        "storage", "activeTab", "scripting", "nativeMessaging","tabs","webRequest"
+    ],
+
+	"content_scripts": [
+	    {
+	      "matches": [ "https://jut.su/*" ],
+	      "css": ["css/css.css"]
+	    }
+  	],
+	"action": {
+		"default_popup": "popup.html"
+	}
+}

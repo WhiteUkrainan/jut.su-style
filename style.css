@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.content {
+	width: 400px;
+	height: 500px;
+}
+.styles {
+	border-bottom: 1px black solid;
+	display: flex;
+	justify-content: space-evenly;
+}
+.v1111 {
+	border-top: 1px solid black;
+	display: flex;
+	justify-content: space-evenly;
+}
+.v1111 button {
+	border: 1px black solid;
+	width: 49.5%;
+	margin: 10px 0;
+	height: 30px;
+	background: none;
+	cursor: pointer;
+}
+.styles input {
+	border: 1px black solid;
+	width: 49.5%;
+	margin: 10px 0;
+	height: 30px;
+	background: none;
+	cursor: pointer;
+}
+.styles input:hover {
+	background: black;
+	color: white;
+}
+/* content */
+.block {
+	width: 90%;
+	margin: 10px auto;
+}
+.block-title {
+	font-family: monospace;
+	font-size: 23px;
+}
+.table {
+	display: flex;
+	border: 1px solid black;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	overflow: hidden;
+	overflow-y: scroll;
+	max-height: 300px;
+}
+.tableCard {
+	width: 45%;
+	border: 1px black solid;
+	padding: 2px;
+	text-align: center;
+	height: 120px;
+	margin: 20px 5px;
+}
+.tableCard p {
+	font-size: 18px;
+	font-family: fantasy;
+	bottom: 0;
+	margin-top: 20px;
+}
+.tableCard button {
+	width: 90%;
+	height: 40px;
+	border: 1px black solid;
+	background: none;
+	cursor: pointer;
+}
+.tableCard button:hover {
+	background: black;
+	color: white;
+}
